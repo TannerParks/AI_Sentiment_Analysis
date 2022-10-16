@@ -1,0 +1,4 @@
+Using trainingSet.txt for training data and trainingSet.txt for testing data:
+The accuracy of training data is 95.59118236472945 %
+Using trainingSet.txt for training data and testSet.txt for testing data:
+The accuracy of test data is 75.25150905432596 %
